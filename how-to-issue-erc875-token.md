@@ -70,7 +70,9 @@ Attention the parameters with <>. Here are descriptions:
 - **your token recipient address here**, the wallet address will receive your ERC875 token, to make it simple, you can copy and paste your wallet address from [alphawallet](https://www.awallet.io/).	
 
 
-- After preparation for the deploy parameters, copy and paste the deploy script to input text field right to "Deploy" button in Run tab in the right pane in remix.
+After preparation for the deploy parameters,   
+
+- copy and paste the deploy script to input text field right to "Deploy" button in Run tab in the right pane in remix.
 - There prompts a metamask window to confirm the gas for creation smart contract. 
 - Click "submit" to confirm. Wait for the success for contract.
 - During wait, you can click etherscan link to check the progress.
