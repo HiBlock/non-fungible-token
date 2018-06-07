@@ -63,11 +63,11 @@ prepare the deploy script as following:
 
 Attention the parameters with <>. Here are descriptions:
 
-- **<contract name>**, a meaningful smart contract name
-- **<contract symbols text>**, token symbols, like "ETH" for ethereum
-- **<your organiser addr here>**, ticket organiser's wallet address
-- **<your payment server addr here>**, the wallet will pay for gas
-- **<your token recipient address here>**, the wallet address will receive your ERC875 token, to make it simple, you can copy and paste your wallet address from [alphawallet](https://www.awallet.io/).	
+- **contract name**, a meaningful smart contract name
+- **contract symbols text**, token symbols, like "ETH" for ethereum
+- **your organiser addr here**, ticket organiser's wallet address
+- **your payment server addr here**, the wallet will pay for gas
+- **your token recipient address here**, the wallet address will receive your ERC875 token, to make it simple, you can copy and paste your wallet address from [alphawallet](https://www.awallet.io/).	
 
 
 - After preparation for the deploy parameters, copy and paste the deploy script to input text field right to "Deploy" button in Run tab in the right pane in remix.
