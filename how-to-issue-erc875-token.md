@@ -97,3 +97,7 @@ You can redeem, sell, or transfer your own token like a ticket.
 
 Enjoy it!
 
+
+**Reference**
+
+[AlphaWallet ERC875 Sample](https://awallet.io/erc875-sample-1/)
