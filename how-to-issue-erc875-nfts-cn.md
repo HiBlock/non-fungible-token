@@ -15,6 +15,19 @@ ERC 是 Ethereum Request Comments，是以太坊上的建议。ERC875 和 ERC721
 
 [ERC875更多说明](https://github.com/ethereum/EIPs/issues/875)
 
+## 主要流程
+为了发布ERC875代币，你需要一些准备事项，参见如下的准备事项
+
+准备好之后，如下是主要流程：
+
+1. 准备MetaMask
+2. 准备以太币（无论测试网络还是主网）
+3. 准备AlphaWallet钱包
+4. 发布代币合约（可以使用token factory）
+5. AlphaWallet中导入代币合约
+6. 开始使用代币
+
+
 ## 准备事项
 
 为了发布非同质代币，你需要准备一系列事项：
